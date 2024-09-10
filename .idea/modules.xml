@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Assignment_1/Assignment_1.iml" filepath="$PROJECT_DIR$/Assignment_1/Assignment_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Assignment_2/Assignment_2.iml" filepath="$PROJECT_DIR$/Assignment_2/Assignment_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstract-factory/Abstract-factory.iml" filepath="$PROJECT_DIR$/Abstract-factory/Abstract-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory-method/Factory-method.iml" filepath="$PROJECT_DIR$/Factory-method/Factory-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/design_patterns.iml" filepath="$PROJECT_DIR$/design_patterns.iml" />
     </modules>
   </component>
